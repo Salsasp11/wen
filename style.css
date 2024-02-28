@@ -7,6 +7,9 @@
 
 .txt{
     margin-right: 75px;
+    border-style: dashed;
+    background-color: rgb(209, 141, 64);
+    justify-content:right ;
 
 }
 
@@ -36,6 +39,8 @@
 
 .texto2{
     margin-right: 15px;
+    border-style: dashed;
+    background-color: rgb(209, 141, 64);
  
 }
 .salsa2{
@@ -62,6 +67,8 @@
 
 .texto3{
     margin-right: 20px;
+    border-style: dashed;
+    background-color: rgb(209, 141, 64);
 
 }
 .salsa3{
@@ -96,9 +103,6 @@
 }
 /**telefono**/
 @media (max-width: 900px){
-    
-
-
 
 
    
