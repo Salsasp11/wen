@@ -82,17 +82,25 @@
 }
 
 .resolucion{
-    width: 90%;
+    width: 80%;
     text-align: center;
 }
 /**Ordenador**/
 @media (min-width: 991px){
 
 
+
+
+
+
 }
 /**telefono**/
 @media (max-width: 900px){
     
+
+
+
+
    
 }
 
